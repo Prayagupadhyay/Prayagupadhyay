@@ -1,8 +1,10 @@
 # 💫 About Me:
-👋 Hello there! I'm Prayag Upadhyay, a motivated data scientist in the process of becoming one. I'm on a quest to understand the intriguing world of data and apply it to practical issues.<br><br>📚 You can find me pondering and researching data science-related problems when I'm not delving into datasets or creating machine learning models. I think that the strength of data comes from the questions we pose and the conclusions we draw.<br><br>🔍 Need assistance with a project or have questions about data science? Please get in touch! Any conversation based on solid data has my full attention. Let's work together to transform data into useful insights! 💡<be>
+Greetings! I'm Prayag Upadhyay, an aspiring data scientist driven by a relentless pursuit of knowledge. My current trajectory involves a systematic immersion in the intricacies of data science, seeking to adeptly apply theoretical concepts to pragmatic challenges.<br>
+In the realm of data exploration, I am consistently engaged in contemplative analysis and rigorous research on data science conundrums. This fervor persists when I'm not engrossed in dissecting datasets or constructing intricate machine learning models. I firmly believe that the potency of data lies in the precision of the questions posed and the acuity of the conclusions drawn.<br>
+If you find yourself grappling with a project or have inquiries regarding the intricate facets of data science, I extend an invitation to connect. I am dedicated to any discourse grounded in robust data methodologies, offering my undivided attention. Together, let's collaborate to metamorphose data into actionable insights! 💡🔍📊<be>
 # Linkdin Profile
 
-👨‍💻 All of my projects are available at linkedin.com/in/prayag-upadhyay-b6627a268
+👨‍💻 All of my projects are available at https://www.linkedin.com/in/p1220
 
 
 # 💻 Tech Stack:
